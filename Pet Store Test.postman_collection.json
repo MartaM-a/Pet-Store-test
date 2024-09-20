@@ -1,12 +1,4 @@
 {
-	"info": {
-		"_postman_id": "c9a99104-4daa-4a37-8b17-810e088d3a66",
-		"name": "Pet Store Test",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "26489656"
-	},
-	"item": [
-		{
 			"name": "200",
 			"item": [
 				{
